@@ -1,0 +1,9 @@
+- CPUID
+written in x86_64 at&t assembly on linux/musl system
+
+references:
+    . https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf
+    . https://www.amd.com/system/files/TechDocs/25481.pdf
+    . https://www.felixcloutier.com/x86/cpuid
+    . https://c9x.me/x86/html/file_module_x86_id_45.html
+    . https://en.wikipedia.org/wiki/CPUID
